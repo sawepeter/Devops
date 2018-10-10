@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a88ca99ec83332bc40df1193e0e32a78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ae2a223d4240f9d18a22f581b6ba35f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/devsawe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/be1690cebc14c2fd76e5854ac4e09467/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d42889eb0b923c7e25b922701ca9dbed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/905e5ee04d5f745d07b3ed91b15d38ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/85b3373c5d4bcccef94d5e3caf63d527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/05f246e104d0cb7d755dc6e3dc491b9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/10c1b7d8503e5df594048806dddcd2de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c5748c29ef6799444d8fd10e7e6412f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/272da049f6ea4ed2bdb5555f5b0b963b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/cd9e8419e3c982b0cd336a53cdedf977/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/33019eb58de53c6b5b05546afffaf612/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/11be98399b3b2537745750f3c10c3925/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/80b95463dcd5227ec8aa32f45364f1c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/16b843e5652f5ee338bef18e8ff9bf13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/726ff5eb6957cdb10197126c1bd8952a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b9cf26b486a5cae4e9efb52d451e0c94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e787f3fdffc372168eaceaac9cdd5d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0626584dbbc7d24d5ad49e9e51ffe021/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfda9432ee1010269efc25f57cafd4a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5dad745b16533939f8d721a5eff16721/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/devsawe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/be1690cebc14c2fd76e5854ac4e09467/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/devsawe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/be1690cebc14c2fd76e5854ac4e09467/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.devsawe.devops.MainActivity
+ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a88ca99ec83332bc40df1193e0e32a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a88ca99ec83332bc40df1193e0e32a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ae2a223d4240f9d18a22f581b6ba35f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ae2a223d4240f9d18a22f581b6ba35f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/devsawe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/be1690cebc14c2fd76e5854ac4e09467/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/devsawe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/be1690cebc14c2fd76e5854ac4e09467/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d42889eb0b923c7e25b922701ca9dbed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d42889eb0b923c7e25b922701ca9dbed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/905e5ee04d5f745d07b3ed91b15d38ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/905e5ee04d5f745d07b3ed91b15d38ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/85b3373c5d4bcccef94d5e3caf63d527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/85b3373c5d4bcccef94d5e3caf63d527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/05f246e104d0cb7d755dc6e3dc491b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/05f246e104d0cb7d755dc6e3dc491b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/10c1b7d8503e5df594048806dddcd2de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/10c1b7d8503e5df594048806dddcd2de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c5748c29ef6799444d8fd10e7e6412f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c5748c29ef6799444d8fd10e7e6412f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/272da049f6ea4ed2bdb5555f5b0b963b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/272da049f6ea4ed2bdb5555f5b0b963b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/cd9e8419e3c982b0cd336a53cdedf977/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/cd9e8419e3c982b0cd336a53cdedf977/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/33019eb58de53c6b5b05546afffaf612/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/33019eb58de53c6b5b05546afffaf612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/11be98399b3b2537745750f3c10c3925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/11be98399b3b2537745750f3c10c3925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/80b95463dcd5227ec8aa32f45364f1c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/80b95463dcd5227ec8aa32f45364f1c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/16b843e5652f5ee338bef18e8ff9bf13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/16b843e5652f5ee338bef18e8ff9bf13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/726ff5eb6957cdb10197126c1bd8952a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/726ff5eb6957cdb10197126c1bd8952a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b9cf26b486a5cae4e9efb52d451e0c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b9cf26b486a5cae4e9efb52d451e0c94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e787f3fdffc372168eaceaac9cdd5d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e787f3fdffc372168eaceaac9cdd5d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0626584dbbc7d24d5ad49e9e51ffe021/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0626584dbbc7d24d5ad49e9e51ffe021/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfda9432ee1010269efc25f57cafd4a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfda9432ee1010269efc25f57cafd4a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5dad745b16533939f8d721a5eff16721/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/devsawe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5dad745b16533939f8d721a5eff16721/AndroidManifest.xml:20:5-44
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		ADDED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
+		INJECTED from /home/devsawe/Documents/Devops/app/src/main/AndroidManifest.xml
