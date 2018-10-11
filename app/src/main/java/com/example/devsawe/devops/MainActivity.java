@@ -1,5 +1,6 @@
 package com.example.devsawe.devops;
 
+import android.content.res.Resources;
 import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +9,7 @@ import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.util.TypedValue;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
@@ -50,9 +52,6 @@ public class MainActivity extends AppCompatActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
-
-    private int dpToPx(int i) {
     }
 
     private void initCollapsingToolbar() {
@@ -143,5 +142,10 @@ public class MainActivity extends AppCompatActivity {
         }
 
         
+    }
+
+    private int dpToPx(int dp) {
+        Resources r = getResources();
+        return Math.round(TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp, r.getDisplayMetrics()));
     }
 }
